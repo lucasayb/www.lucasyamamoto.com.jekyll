@@ -2,7 +2,7 @@
 layout: post
 title:  "Deploy de app em Node com Docker e Elastic Beanstalk"
 date:   2020-05-23 15:53:42 -0300
-categories: desenvolvimento
+categories: devops
 tags: node aws devops
 ---
 Recentemente na [CodeBy](https://codeby.com.br) migramos nossos apps e deployments da Digital Ocean para a AWS e com isso pudemos usufruir de toda a gama de serviços que a Amazon Web Services possui. Hoje, atualmente, fazemos uso dos seguintes:

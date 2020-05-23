@@ -3,7 +3,7 @@ layout: post
 title:  "7 dicas para a integração perfeita"
 date:   2018-06-21 18:55:41 -0300
 categories: dicas
-tags: node integração dicas
+tags: integração dicas
 ---
 
 Hoje em dia, muitas empresas que fazem o próprio site para se inserir na web decidem não abrir mão de seu ERP. Para casos como esse, é necessário desenvolver uma integração, micro aplicação com a responsabilidade de permitir que o sistema web consiga “conversar” com a aplicação própria da empresa. Na nossa trajetória na Codeby, conseguimos obter muitos erros e acertos, e viemos trazê-los aqui para mostrar a vocês, possivelmente, a “fórmula” da integração. Confira!
