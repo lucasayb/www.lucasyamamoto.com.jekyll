@@ -35,10 +35,6 @@ linkedin_username:  lucasayb
 google_analytics: UA-167452130-1
 disqus:
   shortname: lucas-yamamoto
-
-author:
-  name: Lucas Yamamoto
-  email: "lucasayb97@gmail.com"
   
 # Build settings
 theme: minima
