@@ -6,6 +6,7 @@ categories: devops
 tags: node aws devops
 ---
 ![Deploy de app em Node com Docker e Elastic Beanstalk](/assets/images/2020-05-23-deploy-de-app-em-node-com-docker-e-elastic-beanstalk/46600198075_800187a13b_b.jpg)
+
 Recentemente na [CodeBy](https://codeby.com.br) migramos nossos apps e deployments da Digital Ocean para a AWS e com isso pudemos usufruir de toda a gama de serviços que a Amazon Web Services possui. Hoje, atualmente, fazemos uso dos seguintes:
 
 - Elastic Container Registry
@@ -14,7 +15,7 @@ Recentemente na [CodeBy](https://codeby.com.br) migramos nossos apps e deploymen
 - S3
 
 Enquanto utilizamos o S3 para servir mídias como vídeos ou imagens e hospedagem de sites estáticos, os outros são para construir nosso processo de deploy. Hoje gostaria de detalhar como montamos ele.
-<!--more-->
+
 ### Requisitos
 
 - Conhecimento em Git e GitHub.
