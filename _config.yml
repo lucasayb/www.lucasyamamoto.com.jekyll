@@ -17,7 +17,7 @@ disqus:
   shortname: lucas-yamamoto
 show_excerpts: true
 
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 minima:
