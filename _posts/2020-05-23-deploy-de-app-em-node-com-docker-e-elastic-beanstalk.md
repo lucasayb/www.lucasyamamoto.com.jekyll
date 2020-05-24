@@ -26,9 +26,10 @@ Enquanto utilizamos o S3 para servir mídias como vídeos ou imagens e hospedage
 
 Além da migração de Digital Ocean para AWS, também fizemos a mudança de GitLab para GitHub, pelo menos para os apps que precisamos hospedar. Isso porque infelizmente a AWS não possui integração com o GitLab por padrão. Para utilizar o GitLab, foi necessário incluir neste processo o CodeCommit da AWS, mas como o objetivo era simplificar e não complicar, decidimos por utilizar o GitHub.
 
+No GitHub, crie um repositório com as informações exigidas:
+
 ![Deploy de app em Node com Docker e Elastic Beanstalk/Screen_Shot_2020-05-23_at_16.24.42.png](/assets/images/2020-05-23-deploy-de-app-em-node-com-docker-e-elastic-beanstalk/Screen_Shot_2020-05-23_at_16.24.42.png)
 
-No GitHub, crie um repositório com as informações exigidas:
 
 Com o repositório criado, vamos colocar nossa aplicação simples nele para que possamos utilizar em nosso processo. Para facilitar, deixei o repositório deste app público no GitHub. Você pode acessá-lo aqui: [https://github.com/lucasayb/aplicacao-node-simples](https://github.com/lucasayb/aplicacao-node-simples)
 
