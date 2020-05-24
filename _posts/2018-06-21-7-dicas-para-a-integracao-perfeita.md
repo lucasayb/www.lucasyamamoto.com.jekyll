@@ -5,8 +5,11 @@ date:   2018-06-21 18:55:41 -0300
 categories: dicas
 tags: integração dicas
 ---
+![7 dicas para a integração perfeita](/assets/2018-06-21-7-dicas-para-a-integracao-perfeita/hands-with-jigsaw-puzzle-pieces-business-strategy-planning_49149-856.jpg)
 
 Hoje em dia, muitas empresas que fazem o próprio site para se inserir na web decidem não abrir mão de seu ERP. Para casos como esse, é necessário desenvolver uma integração, micro aplicação com a responsabilidade de permitir que o sistema web consiga “conversar” com a aplicação própria da empresa. Na nossa trajetória na Codeby, conseguimos obter muitos erros e acertos, e viemos trazê-los aqui para mostrar a vocês, possivelmente, a “fórmula” da integração. Confira!
+
+<!--more-->
 
 ## 1. Teste os dados da aplicação inicial
 
@@ -40,4 +43,4 @@ Apesar de o nome do artigo falar sobre a integração perfeita, isso infelizment
 
 Por fim, a integração perfeita é aquela que funciona e que possui o objetivo atingido. Por mais que seu cliente seja uma empresa de grande porte, desenvolver uma integração de sistemas não deve ser uma tarefa gigante. Pode ser complicada, ter altos e baixos e na pior das hipóteses uma integração funcional, porém com grandes dificuldades para uma manutenção. Porém busque sempre atingir seu objetivo final e jamais perca a transparência diante do cliente.
 
-O post [7 dicas para a integração perfeita](https://codeby.com.br/blogs/codeby/7-dicas-para-a-integracao-perfeita) apareceu primeiro em [Blog Codeby](https://codeby.com.br/blogs/codeby).
+O post [7 dicas para a integração perfeita](https://codeby.com.br/blogs/codeby/7-dicas-para-a-integracao-perfeita){:target="_blank"}{:rel="nofollow"} apareceu primeiro em [Blog Codeby](https://codeby.com.br/blogs/codeby){:target="_blank"}{:rel="nofollow"}.
