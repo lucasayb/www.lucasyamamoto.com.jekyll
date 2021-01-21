@@ -1,26 +1,19 @@
 version: 0.2
+env:
+  variables:
+    JEKYLL_ENV: production
 phases:
   install:
+    runtime-versions:
+      ruby: 2.6
     commands:
-      - echo "Installing Ruby..."
-      - wget http://ftp.ruby-lang.org/pub/ruby/3.0/ruby-3.0.0.tar.gz
-      - tar -xzvf ruby-3.0.0.tar.gz
-      - cd ruby-3.0.0/
-      - ./configure
-      - make
-      - make install
       - gem install bundler
-  pre_build:
-    commands:
-      - echo "Installing dependencies..."
       - bundle install
   build:
     commands:
-      - echo "Building..."
-      - JEKYLL_ENV=production bundle exec jekyll build
+      - bundle exec jekyll build
 artifacts:
-  files:
-    - "**/*"
-  discard-paths: no
+  type: zip
   base-directory: _site
-  
+  files:
+    - '**/*'
