@@ -22,5 +22,5 @@ artifacts:
   files:
     - "**/*"
   discard-paths: no
-  base-directory: __site
+  base-directory: _site
   
