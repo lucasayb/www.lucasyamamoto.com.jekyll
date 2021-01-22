@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Migrando blog em Jekyll do GitHub para AWS"
-date:   2021-01-28 17:38:02 -0300
+date:   2021-01-22 17:44:02 -0300
 categories: desenvolvimento
 tags: devops dicas docker
 ---
