@@ -3,7 +3,7 @@ layout: post
 title:  "7 dicas para a integração perfeita"
 date:   2018-06-21 18:55:41 -0300
 categories: dicas
-tags: integração dicas
+tags: integração 
 ---
 ![7 dicas para a integração perfeita](/assets/images/2018-06-21-7-dicas-para-a-integracao-perfeita/Integrações.jpg)
 

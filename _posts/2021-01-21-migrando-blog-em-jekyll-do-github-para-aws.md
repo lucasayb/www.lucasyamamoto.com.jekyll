@@ -3,7 +3,7 @@ layout: post
 title:  "Migrando blog em Jekyll do GitHub para AWS"
 date:   2021-01-21 15:53:42 -0300
 categories: devops
-tags: devops dicas
+tags: devops jekyll github
 ---
 ![/assets/images/2021-01-21-migrando-blog-em-jekyll-do-github-para-aws/jekyll-og.jpg](/assets/images/2021-01-21-migrando-blog-em-jekyll-do-github-para-aws/jekyll-og.jpg)
 

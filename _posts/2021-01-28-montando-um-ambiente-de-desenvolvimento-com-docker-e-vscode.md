@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Montando um ambiente de desenvolvimento com Docker"
+title:  "Montando um ambiente de desenvolvimento com Docker e VSCode"
 date:   2021-01-22 17:44:02 -0300
 categories: desenvolvimento
-tags: devops dicas docker
+tags: devops docker vscode
 ---
 ![/assets/images/2021-01-28-montando-um-ambiente-de-desenvolvimento-com-docker/featured.jpg](/assets/images/2021-01-28-montando-um-ambiente-de-desenvolvimento-com-docker/featured.jpg)
 
