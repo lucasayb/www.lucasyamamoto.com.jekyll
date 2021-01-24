@@ -7,9 +7,9 @@ tags: devops docker vscode
 ---
 ![/assets/images/2021-01-28-montando-um-ambiente-de-desenvolvimento-com-docker/featured.jpg](/assets/images/2021-01-28-montando-um-ambiente-de-desenvolvimento-com-docker/featured.jpg)
 
-Quando se trabalha com diversas tecnologias e se possui pouco espaço em seu computador, precisamos recorrer a algumas alternativas mais práticas para que possamos ter algo minimamente viável, se tratando de entregas ágeis, e econômico.
+Quando se trabalha com diversas tecnologias e se possui pouco espaço em seu computador, precisamos recorrer a algumas alternativas mais práticas para que possamos ter algo minimamente viável, se tratando de entregas ágeis, e de forma econômica.
 
-Atualmente utilizo um MacBook i5 2017 para programar e um dos principais problemas dele hoje é o fato de ele possuir 128gb. Hoje meus dados estão na nuvem e todos os meus projetos pessoais e da empresa são versionados e salvos no GitHub ou no GitLab, o que seria ótimo se eu trabalhasse apenas com uma tecnologia. Porém este não é o caso. Já fiz projetos em Ruby On Rails, NodeJS, Python com Django ou Flask, utilizando React, e várias outras tecnologias diferentes, e todas elas possuem algo em comum: o armazenamento das bibliotecas de cada gerenciador de pacotes.
+Atualmente utilizo um MacBook i5 2017 para programar e um dos principais problemas dele hoje é o fato de ele possuir 128gb. Hoje meus dados estão na nuvem e todos os meus projetos pessoais e da empresa são versionados e salvos no GitHub ou no GitLab, o que seria ótimo se eu trabalhasse apenas com uma tecnologia. Já fiz projetos em Ruby On Rails, NodeJS, Python com Django ou Flask, utilizando React, e várias outras tecnologias diferentes, e todas elas possuem algo em comum: o armazenamento das bibliotecas de cada gerenciador de pacotes.
 
 Supondo que em um dia eu precise fazer um projeto que utilize React, vou precisar salvar gerenciar meus pacotes com o `npm`. A versão do meu JavaScript deve ser gerenciada com o `nvm`. E isso se tratando apenas de front end. Indo para o back end, gostaria de utilizar Ruby On Rails. Meu gerenciador de pacotes seria o `bundler`, e o gerenciador das versões do Ruby seria o `rvm`. Em pouco tempo, podemos atingir esse "teto" de 128gb.
 
