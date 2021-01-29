@@ -19,6 +19,7 @@ show_excerpts: true
 
 theme: minima
 plugins:
+  - jekyll-redirect-from
   - jekyll-feed
 minima:
   skin: dark
