@@ -8,7 +8,7 @@ tags: mudanças
 
 ![/assets/images/2022-01-16-2022-ano-novo-grandes-mudancas/2022.jpg](/assets/images/2022-01-16-2022-ano-novo-grandes-mudancas/2022.jpg)
 
-Desde 2020 que tenho oficialmente esse blog, mas já alguns anos havia feitos artigos diversos relacionados a tecnologia, e quando lancei esse local com Jekyll, postei-os aqui e hoje tenho um espaço, uma pequena porção da internet para trazer pensamentos e ideias que possam ser ridículas, mas que consigam transmitir um pouco de conhecimento para aqueles que ainda estão tentando compreender o que é programação.
+Desde 2020 que tenho oficialmente esse blog, mas já alguns anos havia feito artigos diversos relacionados a tecnologia, e quando lancei esse local com Jekyll, postei-os aqui e hoje tenho um espaço, uma pequena porção da internet para trazer pensamentos e ideias que possam ser ridículas, mas que consigam transmitir um pouco de conhecimento para aqueles que ainda estão tentando compreender o que é programação.
 
 Sempre gostei de escrever, mas sempre tive receio de escrever publicamente relacionado a tópicos que possam causar algum tipo de desentendimento quando na verdade minha intenção é exatamente o oposto. Como conversei com meu amigo Samurai há alguns dias, concluímos que pensamos excessivamente antes de tomar a atitude e simplesmente fazer, o que apesar de ser um verdadeiro clichê, é uma realidade. Pensar excessivamente nas possibilidades que podem ocorrer, nos prós e nos contras, no bom e no péssimo resultado, etc, faz com que ao mesmo tempo que evitamos ter resultados indesejados, deixemos de inovar, errar e consequentemente aprender.
 
