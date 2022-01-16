@@ -29,7 +29,7 @@ Além disso, quero fazer algumas alterações no blog. A princípio havia pensad
 - A possibilidade de segregar conteúdos em diferentes coleções (cursos, posts, vídeos, séries, etc)
 - A possibilidade de programar posts
 - Poder criar posts como rascunhos
-- Ter um editor WYSIWYG que me permita fazer uploads de imagens e vídeos sem precisar subí-las no repositório primeiro e depois referenciá-las via markdown
+- Ter um editor WYSIWYG que me permita fazer uploads de imagens e vídeos sem precisar subi-las no repositório primeiro e depois referenciá-las via markdown
 
 Entenda, adoro escrever em markdown, e ainda mais com o Notion, o app de anotações que uso para fazer meus rascunhos de posts, onde consigo escrever em markdown livremente, minha linha de pensamento flui ainda melhor, mas às vezes eu preciso ser rápido e posso perder minha linha de raciocínio simplesmente por ser difícil postar conteúdo em algum determinado dia ou hora, por isso quero fazer essa mudança.
 
